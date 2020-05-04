@@ -29,7 +29,7 @@ import com.salesmanager.web.entity.catalog.category.PersistableCategory;
 
 public class CategoryImport {
 	
-	private String FILE_NAME = "/Users/carlsamson/Documents/dev/workspaces/shopizer-inventoty-xls/shopizer-inventory-csv/src/main/resources/category-loader.csv";
+	private String FILE_NAME = "/Users/shyam/Documents/java/shopizer-shyam/shopizer-inventory-csv/src/main/resources/category-loader.csv";
 	
 
 	public static void main(String[] args) {

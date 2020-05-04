@@ -39,11 +39,11 @@
 	
 	
 		<!-- sm-core-model -->
-		<dependency>
+	<!-- 	<dependency>
 			<groupId>com.shopizer</groupId>
 			<artifactId>sm-core-model</artifactId>
 			<version>${sm-core-model.version}</version>
-		</dependency>
+		</dependency> -->
 		
 		
 		<!-- sm-shop -->
